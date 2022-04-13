@@ -1,0 +1,247 @@
+id,name,type,park,location,surface_material,grandstand,inactive,neighborhood,council_district,ward,tract,public_works_division,pli_division,police_zone,fire_zone,latitude,longitude
+1592343416,Allegheny Commons Basketball Court 1,Basketball (Full),Allegheny Commons,,,0,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45444322,-80.00810437
+1365248699,Allegheny Commons Park Tennis Court 1,Tennis,Allegheny Commons,,Asphalt,0,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45239978,-80.01253059
+1757180821,Allegheny Commons Park Tennis Court 2,Tennis,Allegheny Commons,,Asphalt,0,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.4522382,-80.01214999
+744303307,Allegheny Commons Park Tennis Court 3,Tennis,Allegheny Commons,,Asphalt,0,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45207492,-80.01176729
+1157777481,Alton Park Basketball Court 1,Basketball (Half),Alton Park,,Asphalt,0,f,Beechview,4,19,42003191600,5,19,6,4-28,40.41415163,-80.02230466
+299909706,Alton Park Basketball Court 2,Basketball (Full),Alton Park,,Asphalt,0,f,Beechview,4,19,42003191600,5,19,6,4-28,40.41415457,-80.02208836
+912994212,Ammon Park Basketball Court 1,Basketball (Full),Ammon Park,,Asphalt,0,f,Bedford Dwellings,6,5,42003050900,3,5,2,2-5,40.44933129,-79.97747322
+1342647628,Ammon Park Basketball Court 2,Basketball (Full),Ammon Park,,Asphalt,0,f,Bedford Dwellings,6,5,42003050900,3,5,2,2-5,40.44918388,-79.97737145
+470473315,Arlington Park Basketball Court 1,Basketball (Full),Arlington Park,,Asphalt,0,f,South Side Slopes,3,16,42003160800,3,16,3,4-22,40.41799025,-79.97505315
+229834077,Armstrong Park Basketball Court 1,Basketball (Full),Armstrong Park,,Asphalt,0,f,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42792481,-79.98601078
+155976019,Armstrong Park Sports Court 1,General Sports,Armstrong Park,,Asphalt,0,f,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42789485,-79.98619761
+1120982972,Arsenal Basketball Court 1,Basketball (Full),Arsenal Park,,Asphalt,0,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46692811,-79.96225281
+451145223,Arsenal Hockey Court 1,Street Hockey,Arsenal Park,,Asphalt,0,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46675493,-79.96200724
+644689747,Arsenal Park Tennis Court 1,Tennis,Arsenal Park,,Asphalt,0,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46611498,-79.96059793
+1164208770,Arsenal Park Tennis Court 2,Tennis,Arsenal Park,,Asphalt,0,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46600851,-79.96073891
+1083188111,Arsenal Park Tennis Court 3,Tennis,Arsenal Park,,Asphalt,0,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46590187,-79.96088191
+1955539329,Arsenal Park Tennis Court 4,Tennis,Arsenal Park,,Asphalt,0,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46579819,-79.96103473
+1732101805,August Wilson Park Basketball Court 1,Basketball (Half),August Wilson Park,,Asphalt,0,f,Crawford-Roberts,6,3,42003030500,3,3,2,2-1,40.4466766,-79.9856669
+647954390,Banksville Park Basketball Court 1,Basketball (Full),Banksville Park,,Asphalt,0,f,Banksville,2,20,42003202300,5,20,6,4-9,40.41484022,-80.03869487
+993736796,Banksville Park Dek Hockey Court 1,Dek Hockey,Banksville Park,,Composite,0,f,Banksville,2,20,42003202300,5,20,6,4-9,40.41439549,-80.03905051
+1929653833,Banksville Park Tennis Court 1,Tennis,Banksville Park,,Asphalt,0,f,Banksville,2,20,42003202300,5,20,6,4-9,40.41461932,-80.03874158
+483382058,Bon Air Park Hockey Court 1,Hockey,Bon Air Park,,Asphalt,0,f,Bon Air,4,18,42003562400,5,18,3,4-7,40.40740392,-79.99993526
+53612772,Boundary Street Park Hockey Court 1,Hockey,Boundary Street Park,,Asphalt,0,f,Central Oakland,3,4,42003040600,3,4,4,2-11,40.43862751,-79.95046782
+1919204105,Brighton Heights Park Basketball Court 1,Basketball (Full),Brighton Heights Park,,Asphalt,0,f,Brighton Heights,1,27,42003270800,1,27,1,1-14,40.48749665,-80.03177314
+431429451,Brookline Memorial Park Basketball Court 1,Basketball (Full),Brookline Memorial Park,,Asphalt,0,f,Brookline,4,32,42003320600,5,32,6,4-26,40.39111591,-80.00805266
+38843669,Brookline Memorial Park Dek Hockey Court 1,Dek Hockey,Brookline Memorial Park,,Composite,0,f,Brookline,4,32,42003320600,5,32,6,4-26,40.39096335,-80.00751006
+2001022188,Bud Hammer Basketball Court 1,Basketball (Full),Bud Hammer Park,,Asphalt,0,f,Hazelwood,5,15,42003562900,3,15,4,2-12,40.42141381,-79.94671008
+660645526,Bud Hammer Park Hockey Court 1,Street Hockey,Bud Hammer Park,,Asphalt,0,f,Hazelwood,5,15,42003562900,3,15,4,2-12,40.42123975,-79.94633529
+538525195,Burgwin Basketball Court 1,Basketball (Full),Burgwin Park,,Asphalt,0,f,Hazelwood,5,15,42003562300,3,15,4,2-13,40.4047244,-79.93649207
+668922814,Burgwin Park Hockey Court 1,Hockey,Burgwin Park,,Asphalt,0,f,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40467527,-79.93601738
+24766495,Burgwin Park Hockey Court 2,Hockey,Burgwin Park,,Concrete,0,f,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40462283,-79.93584818
+1393659895,Burgwin Park Tennis Court 1,Tennis,Burgwin Park,,Asphalt,0,f,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40456403,-79.93566055
+1270535022,Chadwick Park Basketball Court 1,Basketball (Full),Chadwick Park,,Asphalt,0,f,Lincoln-Lemington-Belmar,9,12,42003561900,2,12,5,3-18,40.46513826,-79.89111999
+2002215349,Cobden Street Park Basketball Court 1,Basketball (Full),Cobden Street Park,,Asphalt,0,f,South Side Slopes,3,16,42003160800,3,16,3,4-22,40.41941689,-79.96829734
+1709561891,Cowley Park Basketball Court 1,Basketball (Full),Cowley Park,,Asphalt,0,f,Troy Hill,1,24,42003240600,1,24,1,1-2,40.45869953,-79.98869669
+444477960,Cowley Park Basketball Court 2,Basketball (Full),Cowley Park,,Asphalt,0,f,Troy Hill,1,24,42003240600,1,24,1,1-2,40.45847197,-79.98862487
+1532797363,Cross and Strauss Park Basketball Court 1,Basketball (Half),Cross and Strauss Park,,Asphalt,0,f,Perry South,6,26,42003261400,1,26,1,1-12,40.46498348,-80.02003575
+1421498868,Dallas Park Basketball Court 1,Basketball (Full),Dallas Park,,Asphalt,0,f,Homewood West,9,12,42003120700,2,12,5,3-17,40.45785904,-79.90469611
+276532619,Davis Handball Court 1,General Sports,Davis Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43251521,-79.92548298
+2021962274,Davis Park Basketball Court 1,Basketball (Full),Davis Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.4324397,-79.92503008
+187280011,Davis Park Basketball Court 2,Basketball (Full),Davis Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43226229,-79.92501966
+163199012,Davis Park Hockey Court 1,Hockey,Davis Park,,Concrete,0,f,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43229753,-79.92525714
+202591933,Davis Park Tennis Court 1,Tennis,Davis Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43229945,-79.92546672
+845804546,Denny Park Basketball Court 1,Basketball (Half),Denny Park,,Asphalt,0,f,Strip District,7,6,42003020300,6,6,2,3-2,40.45783874,-79.97322198
+766221558,Dinan Park Hockey Court 1,Hockey,Dinan Park,,Asphalt,0,f,Stanton Heights,7,10,42003101800,2,10,5,3-7,40.48432254,-79.93373258
+1530430183,Dinan Park Tennis Court 1,Tennis,Dinan Park,,Asphalt,0,f,Stanton Heights,7,10,42003101800,2,10,5,3-7,40.48438389,-79.93398826
+845657410,Dunbar Park Basketball Court 1,Basketball (Full),Dunbar Park,,Asphalt,0,f,Crafton Heights,2,28,42003281500,5,28,6,1-18,40.43911676,-80.05186944
+1530088063,Duncan Park Hockey Court 1,Street Hockey,Duncan Park,,Asphalt,0,f,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.48024716,-79.94821982
+2034859154,East Carnegie Park Basketball Court 1,Basketball (Full),East Carnegie Park,,Asphalt,0,f,East Carnegie,2,28,42003562800,5,28,6,1-19,40.41450298,-80.07488249
+337401317,East Carnegie Park Sports Court 1,General Sports,East Carnegie Park,,Asphalt,0,f,East Carnegie,2,28,42003562800,5,28,6,1-19,40.41471163,-80.07477594
+1629925162,East Hills Park Basketball Court 1,Basketball (Full),East Hills Park,,Asphalt,2,f,East Hills,9,13,42003130600,2,13,5,3-19,40.45347174,-79.87148334
+1349704205,East Hills Park Basketball Court 2,Basketball (Full),East Hills Park,,Asphalt,0,f,East Hills,9,13,42003130600,2,13,5,3-19,40.45346324,-79.87128605
+2009342838,Eleanor Street Park Basketball Court 1,Basketball (Half),Eleanor Street Park,,Asphalt,0,f,South Side Slopes,3,16,42003160800,3,16,3,4-22,40.42138106,-79.9729645
+1225963982,Emerald View Park Eileen Mc Basketball Court 1,Basketball (Half),Emerald View Park - Eileen McCoy Park,,Asphalt,0,f,Duquesne Heights,2,19,42003191100,5,19,3,4-1,40.43845602,-80.02452947
+1047470806,Emerald View Park Eileen McCoy Hockey Court 1,Hockey,Emerald View Park - Eileen McCoy Park,,Asphalt,0,f,Duquesne Heights,2,19,42003191100,5,19,3,4-1,40.43835161,-80.0243366
+1302113944,Emerald View Park Grandview Basketball Court 1,Basketball (Full),Emerald View Park - Grandview Park,,Asphalt,0,f,Allentown,3,18,42003180300,5,18,3,4-5,40.42451293,-79.99375355
+1535886656,Emerald View Park Mt Wash Basketball Court 1,Basketball (Full),Emerald View Park - Mt. Washington Park,,Asphalt,0,f,Mount Washington,2,19,42003191400,5,19,3,4-27,40.42459778,-80.01370783
+55464097,Bill Massucci Basketball Court,Basketball (Full),Emerald View Park - Olympia Park,,Asphalt,0,f,Mount Washington,2,19,42003190300,5,19,3,4-1,40.4318285,-80.01770851
+1966507491,Emerald View Park Olympia Hockey Court 1,Hockey,Emerald View Park - Olympia Park,,Asphalt,0,f,Mount Washington,2,19,42003190300,5,19,3,4-1,40.43166233,-80.01777613
+319411623,Enright Park Basketball Court 1,Basketball (Full),Enright Park,,Asphalt,0,f,East Liberty,9,8,42003111500,2,8,5,3-23,40.46186763,-79.9297077
+1539344535,Enright Park Basketball Court,Basketball (Full),Enright Park,,Asphalt,0,f,East Liberty,9,8,42003111500,2,8,5,3-23,40.46149315,-79.92993788
+340124698,Fairywood Park Basketball Court 1,Basketball (Full),Fairywood Park,,Asphalt,0,f,Fairywood,2,28,42003563000,5,28,6,1-16,40.44913751,-80.07997541
+194658440,Fairywood Park Basketball Court 2,Basketball (Full),Fairywood Park,,Asphalt,0,f,Fairywood,2,28,42003563000,5,28,6,1-16,40.44899013,-80.07976864
+1535096593,Fifty-Seventh Street Park Basketball Court 1,Basketball (Full),Fifty-Seventh Street Park,,Asphalt,0,f,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.48594969,-79.94691045
+999534439,Fineview Park Basketball Court 1,Basketball (Half),Fineview Park,,,0,f,Fineview,1,25,42003250900,1,25,1,1-10,40.46179238,-80.00416581
+1573467860,Fineview Park Tennis Court 1,Pickleball,Fineview Park,,Asphalt,0,f,Fineview,1,25,42003250900,1,25,1,1-10,40.46160774,-80.00410215
+1822485178,Fort Pitt Park Basketball Court 1,Basketball (Full),Fort Pitt Park,,Asphalt,0,f,Garfield,9,10,42003101600,2,10,5,3-4,40.47031705,-79.94163364
+1631462223,Fort Pitt Park Tennis Court 1,Tennis,Fort Pitt Park,,Asphalt,0,f,Garfield,9,10,42003101600,2,10,5,3-4,40.47026611,-79.94182496
+2130325983,Four Mile Run Basketball Court 1,Basketball (Full),Four Mile Run Park,Under Pkwy Bridge. Invisible from the air.,Asphalt,0,f,Greenfield,3,4,42003151600,3,4,4,2-12,40.42785893,-79.94926816
+1019251434,Four Mile Run Park Hockey Court 1,Street Hockey,Four Mile Run Park,,Asphalt,0,f,Greenfield,5,14,42003151600,3,14,4,2-12,40.42790571,-79.9489168
+2035728178,Frazier Park Basketball Court 1,Basketball (Full),Frazier Park,,Asphalt,2,f,South Oakland,3,4,42003040900,3,4,4,2-11,40.42905068,-79.95421726
+621101060,Frick Park Basketball Court 1,Basketball (Full),Frick Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980300,3,14,4,2-21,40.42991294,-79.91423931
+765156102,Frick Park Volleyball Court,Volleyball,Frick Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980300,3,14,4,2-21,40.42971969,-79.91411658
+2004057547,Frick Park Lawn Bowling Court 1,Lawn Bowling,Frick Park,,Grass,0,f,Point Breeze,9,14,42003981100,3,14,4,3-14,40.44509034,-79.90078929
+1752725365,Frick Park Lawn Bowling Court 2,Lawn Bowling,Frick Park,,Grass,0,f,Point Breeze,9,14,42003981100,3,14,4,3-14,40.44493918,-79.90036168
+365436801,Frick Park Tennis Court 1,Tennis,Frick Park,,Clay,1,f,Regent Square,5,14,42003141000,3,14,4,2-16,40.437234,-79.89793155
+1562820930,Frick Park Tennis Court 2,Tennis,Frick Park,,Clay,0,f,Regent Square,5,14,42003141000,3,14,4,2-16,40.43728518,-79.89773551
+1188088789,Frick Park Tennis Court 3,Tennis,Frick Park,,Clay,0,f,Regent Square,5,14,42003141000,3,14,4,2-16,40.43734057,-79.89754367
+1392183909,Frick Park Tennis Court 4,Tennis,Frick Park,,Clay,0,f,Regent Square,5,14,42003141000,3,14,4,2-16,40.43739405,-79.89736201
+1584378967,Frick Park Tennis Court 5,Tennis,Frick Park,,Clay,0,f,Regent Square,5,14,42003141000,3,14,4,2-16,40.43743945,-79.89718153
+1316033169,Frick Park Tennis Court 6,Tennis,Frick Park,,Clay,0,f,Regent Square,5,14,42003141000,3,14,4,2-16,40.43748915,-79.89699582
+785877619,Garland Park Basketball Court 1,Basketball (Full),Garland Park,,Asphalt,8,f,East Liberty,9,11,42003111500,2,11,5,3-8,40.46410181,-79.92783577
+1729241675,Garland Park Handball Court 1,General Sports,Garland Park,,Asphalt,0,f,East Liberty,9,11,42003111500,2,11,5,3-8,40.46417116,-79.9273713
+55263739,Garland Park Tennis Court 1,Tennis,Garland Park,,Asphalt,0,f,East Liberty,9,11,42003111500,2,11,5,3-8,40.46392916,-79.92766746
+523280611,Garland Park Tennis Court 2,Tennis,Garland Park,,Asphalt,0,f,East Liberty,9,11,42003111500,2,11,5,3-8,40.46387179,-79.92750174
+1579038206,Granville Park Basketball Court 1,Basketball (Full),Granville Park,,Asphalt,1,f,Crawford-Roberts,6,3,42003030500,3,3,2,2-1,40.44427079,-79.98288419
+1706328465,Hays Park Basketball Court 1,Basketball (Half),Hays Park,,Asphalt,0,f,Hays,5,31,42003562900,3,31,4,4-20,40.38337956,-79.93189066
+313316657,Herschel Park Basketball Court 1,Basketball (Full),Herschel Park,,Asphalt,0,f,Elliott,2,20,42003562600,5,20,6,1-17,40.44016199,-80.04377628
+163547169,Herschel Park Basketball Court 2,Basketball (Full),Herschel Park,,Asphalt,0,f,Elliott,2,20,42003562600,5,20,6,1-17,40.44005207,-80.04365022
+580250703,Herschel Park Hockey Court 1,Hockey,Herschel Park,,Concrete,0,f,Elliott,2,20,42003562600,5,20,6,1-17,40.43980583,-80.04402784
+2142639570,Heth's Park Bocce Court 1,Bocce,Heth's Park,,Composite,0,f,Morningside,7,10,42003101400,2,10,5,3-7,40.47829607,-79.92808424
+1096014951,Heth's Park Bocce Court 2,Bocce,Heth's Park,,Composite,0,f,Morningside,7,10,42003101400,2,10,5,3-7,40.47829799,-79.9280309
+1575940237,Heth's Park Bocce Court 3,Bocce,Heth's Park,,Composite,0,f,Morningside,7,10,42003101400,2,10,5,3-7,40.47829506,-79.92798197
+955802589,Heth's Park Hockey Court 1,Hockey,Heth's Park,,Asphalt,0,f,Highland Park,7,11,42003110200,2,11,5,3-9,40.47674628,-79.92765113
+1866856476,Heth's Park Tennis Court 1,Tennis,Heth's Park,,Asphalt,0,f,Highland Park,7,11,42003110200,2,11,5,3-9,40.47681744,-79.92789576
+1271269929,Highland Park Flynn Parklet Basketball Court 1,Basketball (Half),Highland Park,,Asphalt,0,f,Highland Park,7,11,42003110200,2,11,5,3-9,40.47882888,-79.91881472
+63568209,Highland Park Flynn Parklet Basketball Court 2,Basketball (Half),Highland Park,,Asphalt,0,f,Highland Park,7,11,42003110200,2,11,5,3-9,40.4787627,-79.91863125
+1563856270,Highland Park Flynn Parklet Hockey Court 1,Street Hockey,Highland Park,,Asphalt,0,f,Highland Park,7,11,42003110200,2,11,5,3-9,40.47865047,-79.91881816
+396643617,Highland Park Flynn Parklet Tennis Court 1,Tennis,Highland Park,,Asphalt,0,f,Highland Park,7,11,42003110200,2,11,5,3-9,40.47907801,-79.91868159
+85673244,Highland Park Flynn Parklet Tennis Court 2,Tennis,Highland Park,,Asphalt,0,f,Highland Park,7,11,42003110200,2,11,5,3-9,40.47901523,-79.91849194
+877919599,Highland Park Tennis Court 10,Tennis,Highland Park,,Asphalt,0,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.47421859,-79.91073057
+732897941,Highland Park Tennis Court 11,Tennis,Highland Park,,Asphalt,0,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.47419498,-79.91053098
+288613233,Highland Park Tennis Court 12,Tennis,Highland Park,,Asphalt,3,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.47388358,-79.91070852
+1840979858,Highland Park Tennis Court 13,Tennis,Highland Park,,Asphalt,0,f,Highland Park,9,11,42003980100,2,11,5,3-9,40.47355293,-79.91084421
+1383976072,Highland Park Tennis Court 14,Tennis,Highland Park,,Asphalt,0,f,Highland Park,9,11,42003980100,2,11,5,3-9,40.47353012,-79.91063843
+99612239,Highland Park Tennis Court 6,Tennis,Highland Park,,Asphalt,0,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.47493972,-79.91061682
+1296870726,Highland Park Tennis Court 7,Tennis,Highland Park,,Asphalt,0,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.4749109,-79.91039914
+1847157840,Highland Park Tennis Court 8,Tennis,Highland Park,,Asphalt,0,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.4746035,-79.91066409
+426732781,Highland Park Tennis Court 9,Tennis,Highland Park,,Asphalt,0,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.47457523,-79.91045862
+1083987615,Highland Park Volleyball Court 1,Volleyball,Highland Park,,Dirt,0,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.48276216,-79.91117124
+241798554,Highland Park Volleyball Court 2,Volleyball,Highland Park,,Dirt,0,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.48269336,-79.91133453
+1181160308,Highland Park Volleyball Court 3,Volleyball,Highland Park,,Dirt,0,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.48261007,-79.91155319
+1654906344,Highland Park Volleyball Court 4,Volleyball,Highland Park,,Dirt,0,f,Highland Park,7,11,42003980100,2,11,5,3-9,40.4825423,-79.91170483
+859180905,Jefferson Park Basketball Court 1,Basketball (Full),Jefferson Park,,Asphalt,0,f,Central Northside,6,25,42003250300,1,25,1,1-21,40.45896543,-80.01454508
+1695564236,Jefferson Park Basketball Court 2,Basketball (Full),Jefferson Park,,Asphalt,0,f,Central Northside,6,25,42003250300,1,25,1,1-21,40.45899744,-80.01437343
+1031896453,Kennard Park Basketball Court 1,Basketball (Full),Kennard Park,,Asphalt,0,f,Terrace Village,6,5,42003051000,3,5,2,2-10,40.44382501,-79.97333243
+282394221,Kennard Park Basketball Court 2,Basketball (Full),Kennard Park,,Asphalt,0,f,Terrace Village,6,5,42003051000,3,5,2,2-10,40.4438806,-79.97295941
+2033971000,Kennard Park Basketball Court 3,Basketball (Full),Kennard Park,,Asphalt,0,f,Terrace Village,6,5,42003051000,3,5,2,2-10,40.44357151,-79.97337044
+1817597365,Kennard Park Basketball Court 4,Basketball (Full),Kennard Park,,Asphalt,0,f,Terrace Village,6,5,42003051000,3,5,2,2-10,40.44361942,-79.97296101
+1044767001,Kennard Park Tennis Court 1,Tennis,Kennard Park,,Asphalt,0,f,Terrace Village,6,5,42003051000,3,5,2,2-10,40.44317723,-79.97274661
+1682395689,Kite Hill Park Basketball Court 1,Basketball (Full),Kite Hill Park,,Asphalt,0,f,Garfield,9,11,42003111400,2,11,5,3-4,40.46705682,-79.93264793
+298460210,Costa Court,Basketball (Full),Larimer Park,,Asphalt,0,f,Larimer,9,12,42003120400,2,12,5,3-12,40.46630947,-79.91251351
+623316374,Leister Street Park Basketball Court 1,Basketball (Full),Leister Street Park,,Asphalt,0,f,Spring Hill-City View,1,24,42003262000,1,24,1,1-24,40.46207504,-79.99578401
+2103158245,Leolyn Park Basketball Court 1,Basketball (Full),Leolyn Park,,Asphalt,0,f,Carrick,4,29,42003290200,3,29,3,4-12,40.39926888,-79.98576343
+2057715253,Leslie Park Basketball Court 1,Basketball (Full),Leslie Park,,Asphalt,0,f,Central Lawrenceville,7,9,42003090200,2,9,2,3-3,40.47286781,-79.95777967
+492618246,Lewis Park Basketball Court 1,Basketball (Full),Lewis Park,,Asphalt,0,f,Hazelwood,5,15,42003562900,3,15,4,2-13,40.4130285,-79.9450134
+51486336,Lewis Park Basketball Court 2,Basketball (Full),Lewis Park,,Asphalt,0,f,Hazelwood,5,15,42003562900,3,15,4,2-13,40.41309377,-79.94478983
+1542934063,Lewis Park Dek Hockey Court 1,Hockey,Lewis Park,,Asphalt,0,f,Hazelwood,5,15,42003562900,3,15,4,2-13,40.41276323,-79.94493744
+1089773132,Lookout Street Park Basketball Court 1,Basketball (Half),Lookout Street Park,,Asphalt,0,f,Troy Hill,1,24,42003240600,1,24,1,1-2,40.46940438,-79.97689628
+585621285,MaGee Park Basketball Court 1,Basketball (Full),Magee Park,,Asphalt,0,f,Greenfield,5,15,42003151700,3,15,4,2-15,40.4247693,-79.93748236
+851192887,MaGee Park Basketball Court 2,Basketball (Full),Magee Park,,Asphalt,0,f,Greenfield,5,15,42003151700,3,15,4,2-15,40.42481298,-79.93731554
+100461463,Manchester Park Tennis Court 1,Tennis,Manchester Park,,Asphalt,0,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45879482,-80.02544998
+744871657,Manchester Park Tennis Court 2,Tennis,Manchester Park,,Asphalt,0,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45873308,-80.02524646
+2103437874,Manchester School Park Basketball Court 1,Basketball (Full),Manchester School Park,,Asphalt,0,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45682807,-80.02578815
+390545588,Manchester School Park Basketball Court 2,Basketball (Full),Manchester School Park,,Asphalt,0,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45640012,-80.02563643
+1391623389,Marmaduke Park Dek Hockey Court,Dek Hockey,Marmaduke Park,,Composite,1,f,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.4844943,-80.04304637
+1601687125,Marshall-California Park Basketball Court 1,Basketball (Full),Marshall-California Park,,Asphalt,0,f,Marshall-Shadeland,1,27,42003270400,1,27,1,1-9,40.46250427,-80.03066847
+1380850294,McBride Park Dek Hockey Court,Dek Hockey,McBride Park,,,0,f,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.3698823,-79.90738427
+490061372,McBride Park Basketball Court 2,Basketball (Full),McBride Park,,Asphalt,0,f,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.36987644,-79.90727934
+1060181153,McBride Park Basketball Court,Basketball (Full),McBride Park,,Concrete,0,f,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.36982847,-79.90775191
+1265117301,McBride Park Tennis Court,Tennis,McBride Park,,Asphalt,0,f,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.36983792,-79.90797826
+1797969925,McGonigle Park Basketball Court 1,Basketball (Half),McGonigle Park,,Asphalt,0,f,Sheraden,2,20,42003562500,5,20,6,1-16,40.45978587,-80.06527956
+99590297,McGonigle Park Basketball Court 2,Basketball (Full),McGonigle Park,,Asphalt,0,f,Sheraden,2,20,42003562500,5,20,6,1-16,40.45963516,-80.0654184
+363349951,McKinley Park Basketball Court 1,Basketball (Full),McKinley Park,,Asphalt,0,f,Beltzhoover,4,18,42003562400,5,18,3,4-16,40.41395536,-80.00352136
+1064561630,McKinley Park Basketball Court 2,Basketball (Full),McKinley Park,,Asphalt,0,f,Beltzhoover,4,18,42003562400,5,18,3,4-7,40.41312606,-79.99781731
+349033077,McKinley Park Basketball Court 3,Basketball (Full),McKinley Park,,Asphalt,0,f,Beltzhoover,4,18,42003562400,5,18,3,4-7,40.4132748,-79.99771865
+233388008,McKinley Park Sports Court 1,General Sports,McKinley Park,,,0,f,Beltzhoover,4,18,42003562400,5,18,3,4-7,40.41229165,-80.00234071
+558090102,McKinley Park Tennis Court 1,Tennis,McKinley Park,,Asphalt,0,f,Beltzhoover,4,18,42003562400,5,18,3,4-7,40.41232879,-80.00177176
+1662033780,McKinley Park Tennis Court 2,Tennis,McKinley Park,,Asphalt,0,f,Beltzhoover,4,18,42003562400,5,18,3,4-7,40.4123205,-80.0015541
+1130918360,McKinley Park Tennis Court 3,Tennis,McKinley Park,,Astroturf,0,f,Beltzhoover,4,18,42003562400,5,18,3,4-7,40.41227527,-80.00119135
+2088741845,McKinley Park Tennis Court 4,Tennis,McKinley Park,,Astroturf,0,f,Beltzhoover,4,18,42003562400,5,18,3,4-7,40.41224807,-80.0009836
+7241493,McKnight Park Basketball Court 2,Basketball (Full),McKnight Park,,Asphalt,0,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45210525,-80.02222245
+1143156742,McKnight Park Sports Court 1,General Sports,McKnight Park,,Asphalt,0,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45227547,-80.0222771
+1955580732,Mellon Park Basketball Court 1,Basketball (Full),Mellon Park,,Asphalt,2,f,Shadyside,8,7,42003070800,2,7,4,3-13,40.45389621,-79.91637511
+1889167375,Mellon Park Basketball Court 2,Basketball (Full),Mellon Park,,Asphalt,0,f,Shadyside,8,7,42003070800,2,7,4,2-17,40.45373084,-79.91633742
+924885598,Moore Park Basketball Court 1,Basketball (Full),Moore Park,,Asphalt,0,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40504914,-80.01467333
+534984037,Moore Park Basketball Court 2,Basketball (Half),Moore Park,,Asphalt,0,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40508907,-80.01445839
+2145144790,Moore Park Tennis Court 1,Tennis,Moore Park,,Asphalt,0,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40569463,-80.01452512
+1158213799,Moore Park Tennis Court 2,Tennis,Moore Park,,Asphalt,0,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40567252,-80.01431804
+734208596,Moore Park Tennis Court 3,Tennis,Moore Park,,Asphalt,0,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40565305,-80.01414021
+1112957336,Mutual Park Basketball Court 1,Basketball (Half),Mutual Park,,Asphalt,0,f,Sheraden,2,20,42003202200,5,20,6,1-16,40.45203492,-80.06411815
+779686783,Niagara Park Basketball Court 1,Basketball (Half),Niagara Park,,Asphalt,0,f,South Oakland,3,4,42003040900,3,4,4,2-10,40.43463232,-79.96029574
+449080163,Oakwood Park Basketball Court 1,Basketball (Full),Oakwood Park,,Asphalt,0,f,Oakwood,2,28,42003562800,5,28,6,1-19,40.42644066,-80.06730568
+1324077535,Oakwood Park Tennis Court 1,Tennis,Oakwood Park,,Asphalt,0,f,Oakwood,2,28,42003562800,5,28,6,1-19,40.42637191,-80.06644901
+1476656963,Oakwood Park Tennis Court 2,Tennis,Oakwood Park,,Asphalt,0,f,Oakwood,2,28,42003562800,5,28,6,1-19,40.42630315,-80.06629297
+1669056568,Ormsby Park Basketball Court 1,Basketball (Full),Ormsby Park,,Asphalt,0,f,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42948394,-79.97385132
+514089843,Ormsby Park Hockey Court 1,Hockey,Ormsby Park,,Asphalt,0,f,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42955015,-79.97412789
+1890275410,Osceola Park Hockey Court 1,Street Hockey,Osceola Park,,Asphalt,0,f,Bloomfield,7,8,42003080400,2,8,5,3-1,40.45662705,-79.94255435
+1537400389,Paul J Sciullo Dek Hockey 1,Dek Hockey,Paul J. Sciullo II Memorial Park,Paul J Sciullo Dek Hockey 1,,0,f,Bloomfield,7,8,42003080200,2,8,5,3-6,40.46254418,-79.9535151
+1361121746,Paul Sciulli Memorial Park Bocce Court 1,Bocce,Paul J. Sciullo II Memorial Park,,Limestone,0,f,Bloomfield,7,8,42003080200,2,8,5,3-1,40.46246554,-79.95303476
+516809311,Paul Sciulli Memorial Park Bocce Court 2,Bocce,Paul J. Sciullo II Memorial Park,,Limestone,0,f,Bloomfield,7,8,42003080200,2,8,5,3-1,40.46241226,-79.95307559
+736783277,Paul Sciullo Basketball Court 1,Basketball (Full),Paul J. Sciullo II Memorial Park,,Asphalt,0,f,Bloomfield,7,8,42003080200,2,8,5,3-1,40.46220455,-79.95395992
+502739808,Pauline Park Basketball Court 1,Basketball (Full),Pauline Park,,Asphalt,0,f,Beechview,4,19,42003192000,5,19,6,4-28,40.4049985,-80.02613896
+899479979,Pauline Park Basketball Court 2,Basketball (Full),Pauline Park,,Asphalt,0,f,Beechview,4,19,42003192000,5,19,6,4-28,40.40479575,-80.02602713
+1328193138,Paulson Park Basketball Court 1,Basketball (Full),Paulson Park,,Asphalt,0,f,Lincoln-Lemington-Belmar,9,12,42003120300,2,12,5,3-15,40.46866152,-79.89969078
+917703932,Phillips Park Basketball Court 1,Basketball (Full),Phillips Park,,Asphalt,0,f,Carrick,4,29,42003290400,3,29,3,4-23,40.38835951,-79.98996767
+41212187,Phillips Park Tennis Court 1,Tennis,Phillips Park,,Asphalt,0,f,Carrick,4,29,42003290400,3,29,3,4-23,40.38844681,-79.9898084
+1452404133,Robert E. Williams Park Basketball Court 1 Herron,Basketball (Full),Robert E. Williams Park,,Asphalt,1,f,Upper Hill,6,5,42003050600,3,5,2,2-22,40.45475539,-79.95967195
+1125450776,Roland Lockridge Comm Park Basketball Court 1,Basketball (Full),Roland Lockridge Community Park,,Asphalt,0,f,New Homestead,5,31,42003310300,3,31,4,4-20,40.39388033,-79.92065101
+131694182,Schenley Park Pickleball Court 1,Pickleball,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43186594,-79.94331312
+354019264,Schenley Park Tennis Court 10,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43288644,-79.94165898
+1652862442,Schenley Park Tennis Court 11,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43291806,-79.94148862
+1003207346,Schenley Park Tennis Court 12,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43295667,-79.94131769
+220767095,Schenley Park Tennis Court 13,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43299924,-79.94114759
+2077109404,Schenley Park Tennis Court 2,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43193083,-79.94302095
+1257685844,Schenley Park Tennis Court 3,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43203371,-79.9428614
+1377038113,Schenley Park Tennis Court 4,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43214578,-79.94268508
+139690649,Schenley Park Tennis Court 5,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43225643,-79.9425307
+528608420,Schenley Park Tennis Court 6,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.4323586,-79.94237335
+894092414,Schenley Park Tennis Court 7,Tennis,Schenley Park,,Asphalt,1,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43246852,-79.94221738
+2074452367,Schenley Park Tennis Court 8,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43280905,-79.94199862
+1784274089,Schenley Park Tennis Court 9,Tennis,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43284949,-79.94182295
+2002780151,Sheraden Park Basketball Court 1,Basketball (Full),Sheraden Park,,Asphalt,0,f,Sheraden,2,20,42003562500,5,20,6,1-16,40.45897385,-80.06020404
+1008129604,Sheraden Park Tennis Court 1,Tennis,Sheraden Park,,Asphalt,0,f,Sheraden,2,20,42003562500,5,20,6,1-16,40.45934698,-80.06100155
+73007274,Sheraden Park Tennis Court 2,Tennis,Sheraden Park,,Asphalt,0,f,Sheraden,2,20,42003562500,5,20,6,1-16,40.45938057,-80.06080119
+436728230,Spring Garden Park Tennis Court 1,Tennis,Spring Garden Park,,Asphalt,0,f,Spring Garden,1,24,42003241200,1,24,1,1-24,40.46540201,-79.98580864
+602681404,Spring Garden Park Tennis Court 2,Tennis,Spring Garden Park,,Asphalt,0,f,Spring Garden,1,24,42003241200,1,24,1,1-24,40.4651175,-79.98586876
+1417020354,Spring Hill Park Basketball Court 1,Basketball (Full),Spring Hill Park,,Asphalt,0,f,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.4701038,-79.99337645
+1167739947,Spring Hill Park Basketball Court 2,Basketball (Half),Spring Hill Park,,Asphalt,0,f,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.46999809,-79.99312276
+884914366,Spring Hill Park Hockey Court 1,Street Hockey,Spring Hill Park,,Asphalt,0,f,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.47025721,-79.99312974
+1546273895,Stratmore Park Basketball Court 1,Basketball (Full),Andrew Joseph Kukuruda Park,,Asphalt,0,f,Crafton Heights,2,28,42003281500,5,28,6,1-18,40.43964648,-80.05618341
+526698619,Stratmore Park Sports Court 1,Tennis,Andrew Joseph Kukuruda Park,,Asphalt,0,f,Crafton Heights,2,28,42003281500,5,28,6,1-18,40.43941756,-80.05606395
+1411000005,Townsend Park Basketball Court 1,Basketball (Half),Townsend Park,,Asphalt,0,f,Elliott,2,20,42003562600,5,20,6,1-17,40.44323917,-80.0401106
+1431991481,Tropical Park Basketball Court 1,Basketball (Half),Tropical Park,,Asphalt,0,f,Beechview,4,19,42003191600,5,19,6,4-28,40.42248006,-80.02409173
+2031457859,Tropical Park Basketball Court 2,Basketball (Full),Tropical Park,,Asphalt,0,f,Beechview,4,19,42003191600,5,19,6,4-28,40.42234945,-80.02388569
+1861433607,Tropical Park Hockey Court 1,Street Hockey,Tropical Park,,Asphalt,0,f,Beechview,4,19,42003191600,5,19,6,4-28,40.42222783,-80.02360226
+2034927516,Vincennes Park Basketball Court 1,Basketball (Full),Vincennes Park,,Asphalt,0,f,Middle Hill,6,5,42003050100,3,5,2,2-5,40.45120485,-79.96770499
+692961341,Wabash Park Basketball Court 1,Basketball (Full),Wabash Park,,Asphalt,0,f,West End,2,20,42003562600,5,20,6,1-17,40.43818406,-80.03431845
+182857077,Wabash Park Basketball Court 2,Basketball (Full),Wabash Park,,Asphalt,0,f,West End,2,20,42003562600,5,20,6,1-17,40.43817512,-80.03412638
+1061688281,Warrington Park Basketball Court 1,Basketball (Full),Warrington Park,,Asphalt,0,f,Beltzhoover,3,18,42003562400,5,18,3,4-5,40.42152859,-80.00120565
+576669884,West Penn Park Basketball Court 1,Basketball (Half),West Penn Park,,Asphalt,0,f,Polish Hill,7,6,42003060500,6,6,2,2-6,40.45608563,-79.97059582
+852391054,Wightman Park Basketball Court 1,Basketball (Half),Wightman Park,,Asphalt,0,f,Squirrel Hill North,8,14,42003140300,3,14,4,2-18,40.44358437,-79.9267556
+768155930,Winters Park Basketball Court 1,Basketball (Full),Winters Park,,Asphalt,0,f,South Side Slopes,3,17,42003170600,3,17,3,4-3,40.42295871,-79.98142974
+1016886044,Arlington Park Hockey Court 1,Hockey,Arlington Park,,Concrete,0,f,South Side Slopes,3,16,42003160800,3,16,3,4-22,40.41794503,-79.97475178
+1143726854,Blair Street Park Basketball Court 1,Basketball (Full),Blair Street Park,,Asphalt,0,f,Hazelwood,5,15,42003562900,3,15,4,2-13,40.40437847,-79.94592237
+927488438,Joe Natoli Field Basketball Court 1,Basketball (Full),Joe Natoli Park,,Asphalt,0,f,Morningside,7,10,42003101400,2,10,5,3-7,40.48415784,-79.9251752
+1393056209,Allegheny Commons Pickleball Court 1,Pickleball,Allegheny Commons,,,0,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45399858,-80.00761998
+1898333902,Allegheny Commons Pickleball Court 2,Pickleball,Allegheny Commons,,,0,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45389912,-80.00753158
+996567043,Allegheny Commons Tennis Courts 4,Tennis,Allegheny Commons,,,0,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45416662,-80.00814678
+126615186,Allegheny Commons Tennis Courts 5,Tennis,Allegheny Commons,,,0,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45420192,-80.00795732
+15109516,Armstrong Park Horsehoe Pit,Horseshoe Pit,Armstrong Park,,Asphalt,0,f,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42840289,-79.98609203
+2114042976,Lodge Potenza Bocce 2,Bocce,Lodge Potenza Healthy Active Living Center,,,0,f,Mount Washington,2,19,42003191400,5,19,3,4-27,40.43021175,-80.00780482
+1864404262,Lodge Potenza Bocce Court 1,Bocce,Lodge Potenza Healthy Active Living Center,,,0,f,Mount Washington,2,19,42003191400,5,19,3,4-27,40.43025096,-80.00786994
+321463746,Magee Bocce Court,Bocce,Magee Park,,,0,f,Greenfield,5,15,42003151700,3,15,4,2-12,40.42424065,-79.93671725
+1290615572,Moore Park Pickleball Court 1,Pickleball,Moore Park,,,0,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40488657,-80.0147146
+1066241176,Moore Park Pickleball Court 2,Pickleball,Moore Park,,,0,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40482121,-80.01473464
+452184,Schenley Park Pickleball Court 2,Pickleball,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43192476,-79.94322411
+1837773733,Schenley Park Pickleball Court 3,Pickleball,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43174194,-79.94317651
+384044712,Schenley Park Pickleball Court 4,Pickleball,Schenley Park,,Asphalt,0,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43179404,-79.94308011
+1921597374,Roland Lockridge Park Horseshoe Pit,Horseshoe Pit,Roland Lockridge Community Park,,,0,,New Homestead,5,31,42003310300,3,31,4,4-20,40.39384084,-79.92092416
+516511877,Westinghouse Park,Basketball (Half),Westinghouse Park,,Concrete,0,,Point Breeze North,9,14,42003140500,2,14,4,3-14,40.45351837,-79.90196895
+1759668444,Swisshelm Park Hockey Court,Hockey,Swisshelm Park,,,0,,Swisshelm Park,5,14,42003141100,3,14,4,2-19,40.42123909,-79.90161251
+708245427,Swisshelm Park Tennis Court,Tennis,Swisshelm Park,,,0,,Swisshelm Park,5,14,42003141100,3,14,4,2-19,40.42123773,-79.90192858
+642546087,Washington's Landing Park Tennis Court 1,Tennis,Washington's Landing Park,,Asphalt,0,,Troy Hill,1,24,42003240600,6,24,1,1-1,40.46846463,-79.9743752
+1788043226,Washington's Landing Tennis Court 2,Tennis,Washington's Landing Park,,Asphalt,0,,Troy Hill,1,24,42003240600,6,24,1,1-1,40.4685403,-79.97423767
+949418312,Washington's Landing Tennis Court 3,Tennis,Washington's Landing Park,,Asphalt,0,,Troy Hill,1,24,42003240600,6,24,1,1-1,40.46861665,-79.97409158
+1552277866,Washington's Landing Tennis Court 4,Tennis,Washington's Landing Park,,Asphalt,0,,Troy Hill,1,24,42003240600,6,24,1,1-1,40.46869328,-79.97395524
+199562341,Washington's Landing Tennis Court 5,Tennis,Washington's Landing Park,,Asphalt,0,,Troy Hill,1,24,42003240600,6,24,1,1-1,40.46876759,-79.97381538
+1774604314,Allegheny Commons Basketball Court 2,Basketball (Half),Allegheny Commons,,Asphalt,0,,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45180681,-80.00190448
+1644340363,South Side Park Basketball Court,Basketball (Full),Southside Park,,Asphalt,0,,South Side Slopes,3,17,42003170600,3,17,3,4-22,40.42052182,-79.98147615
+344589271,Riverview Park Tennis Court 1,Tennis,Riverview Park,,,0,,Perry North,1,26,42003980400,1,26,1,1-15,40.48228715,-80.02249218
+1256692000,Riverview Park Tennis Court 2,Tennis,Riverview Park,,,0,,Perry North,1,26,42003980400,1,26,1,1-15,40.48234249,-80.0222632
+1802795636,West End Park Basketball Court,Basketball (Half),West End Park,,Asphalt,0,,Elliott,2,20,42003562600,5,20,6,1-17,40.43739512,-80.03692881
+529313558,Frick Park Pickleball Court 1,Pickleball,Frick Park,,Asphalt,0,,Squirrel Hill South,5,14,42003980300,3,14,4,2-21,40.42999682,-79.91402942
+1330544431,Frick Park Pickleball Court 2,Pickleball,Frick Park,,Asphalt,0,,Squirrel Hill South,5,14,42003980300,3,14,4,2-21,40.42990563,-79.91402266
+30730620,Frick Park Pickleball Court 3,Pickleball,Frick Park,,Asphalt,0,,Squirrel Hill South,5,14,42003980300,3,14,4,2-21,40.4298264,-79.91401737
